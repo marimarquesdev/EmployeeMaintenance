@@ -1,0 +1,10 @@
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\bin\Debug\EmployeeMaintenance.exe.config
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\bin\Debug\EmployeeMaintenance.exe
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\bin\Debug\EmployeeMaintenance.pdb
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.csprojAssemblyReference.cache
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.Form1.resources
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.Properties.Resources.resources
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.csproj.GenerateResource.cache
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.exe
+C:\420-P34-AS\EmployeeMaintenance\EmployeeMaintenance\obj\Debug\EmployeeMaintenance.pdb

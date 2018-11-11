@@ -1,0 +1,10 @@
+C:\420-P34-AS\test02\test02\bin\Debug\test02.exe.config
+C:\420-P34-AS\test02\test02\bin\Debug\test02.exe
+C:\420-P34-AS\test02\test02\bin\Debug\test02.pdb
+C:\420-P34-AS\test02\test02\obj\Debug\test02.csprojAssemblyReference.cache
+C:\420-P34-AS\test02\test02\obj\Debug\test02.Form1.resources
+C:\420-P34-AS\test02\test02\obj\Debug\test02.Properties.Resources.resources
+C:\420-P34-AS\test02\test02\obj\Debug\test02.csproj.GenerateResource.cache
+C:\420-P34-AS\test02\test02\obj\Debug\test02.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\test02\test02\obj\Debug\test02.exe
+C:\420-P34-AS\test02\test02\obj\Debug\test02.pdb

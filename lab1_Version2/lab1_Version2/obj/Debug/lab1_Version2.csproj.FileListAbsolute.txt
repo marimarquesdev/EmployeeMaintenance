@@ -1,0 +1,10 @@
+C:\420-P34-AS\lab1_Version2\lab1_Version2\bin\Debug\lab1_Version2.exe.config
+C:\420-P34-AS\lab1_Version2\lab1_Version2\bin\Debug\lab1_Version2.exe
+C:\420-P34-AS\lab1_Version2\lab1_Version2\bin\Debug\lab1_Version2.pdb
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.csprojAssemblyReference.cache
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.Form1.resources
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.Properties.Resources.resources
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.csproj.GenerateResource.cache
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.exe
+C:\420-P34-AS\lab1_Version2\lab1_Version2\obj\Debug\lab1_Version2.pdb

@@ -1,0 +1,10 @@
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\bin\Debug\ReviewMidleTermExam.exe.config
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\bin\Debug\ReviewMidleTermExam.exe
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\bin\Debug\ReviewMidleTermExam.pdb
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.csprojAssemblyReference.cache
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.Form1.resources
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.Properties.Resources.resources
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.csproj.GenerateResource.cache
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.exe
+C:\420-P34-AS\ReviewMidleTermExam\ReviewMidleTermExam\obj\Debug\ReviewMidleTermExam.pdb

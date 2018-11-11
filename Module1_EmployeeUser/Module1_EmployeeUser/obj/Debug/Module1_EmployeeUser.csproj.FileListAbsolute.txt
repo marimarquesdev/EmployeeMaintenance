@@ -1,0 +1,10 @@
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\bin\Debug\Module1_EmployeeUser.exe.config
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\bin\Debug\Module1_EmployeeUser.exe
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\bin\Debug\Module1_EmployeeUser.pdb
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.csprojAssemblyReference.cache
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.Form1.resources
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.Properties.Resources.resources
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.csproj.GenerateResource.cache
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.exe
+C:\420-P34-AS\Module1_EmployeeUser\Module1_EmployeeUser\obj\Debug\Module1_EmployeeUser.pdb

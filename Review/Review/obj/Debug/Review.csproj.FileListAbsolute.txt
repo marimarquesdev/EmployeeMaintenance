@@ -1,0 +1,9 @@
+C:\P34_A2018\Review\Review\obj\Debug\Review.csprojResolveAssemblyReference.cache
+C:\P34_A2018\Review\Review\obj\Debug\Review.FormReview.resources
+C:\P34_A2018\Review\Review\obj\Debug\Review.csproj.GenerateResource.Cache
+C:\P34_A2018\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\P34_A2018\Review\Review\bin\Debug\Review.exe.config
+C:\P34_A2018\Review\Review\bin\Debug\Review.exe
+C:\P34_A2018\Review\Review\bin\Debug\Review.pdb
+C:\P34_A2018\Review\Review\obj\Debug\Review.exe
+C:\P34_A2018\Review\Review\obj\Debug\Review.pdb

@@ -1,0 +1,10 @@
+C:\420-P34-AS\ReviewTest1\ReviewTest1\bin\Debug\ReviewTest1.exe.config
+C:\420-P34-AS\ReviewTest1\ReviewTest1\bin\Debug\ReviewTest1.exe
+C:\420-P34-AS\ReviewTest1\ReviewTest1\bin\Debug\ReviewTest1.pdb
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.csprojAssemblyReference.cache
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.Form1.resources
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.Properties.Resources.resources
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.csproj.GenerateResource.cache
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.exe
+C:\420-P34-AS\ReviewTest1\ReviewTest1\obj\Debug\ReviewTest1.pdb

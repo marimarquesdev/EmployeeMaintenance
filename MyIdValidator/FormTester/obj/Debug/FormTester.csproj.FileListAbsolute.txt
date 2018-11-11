@@ -1,0 +1,13 @@
+C:\420-P34-AS\MyIdValidator\FormTester\bin\Debug\FormTester.exe.config
+C:\420-P34-AS\MyIdValidator\FormTester\bin\Debug\FormTester.exe
+C:\420-P34-AS\MyIdValidator\FormTester\bin\Debug\FormTester.pdb
+C:\420-P34-AS\MyIdValidator\FormTester\bin\Debug\MyIdValidator.dll
+C:\420-P34-AS\MyIdValidator\FormTester\bin\Debug\MyIdValidator.pdb
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.csprojAssemblyReference.cache
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.Form1.resources
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.Properties.Resources.resources
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.csproj.GenerateResource.cache
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.csproj.CoreCompileInputs.cache
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.csproj.CopyComplete
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.exe
+C:\420-P34-AS\MyIdValidator\FormTester\obj\Debug\FormTester.pdb

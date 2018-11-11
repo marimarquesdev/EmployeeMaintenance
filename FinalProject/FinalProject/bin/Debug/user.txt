@@ -1,0 +1,2 @@
+1234,admin,1234,MIS Manager,1234,Active
+3030,mary,1234,Sales Manager,3030,Active
